@@ -4,10 +4,9 @@
 	Custom
 	Last update: 2018/04/30
 
-	Author:	Taigo Ito
-	Site: https://tgco.jp
-	Twitter: @taigoito
-	Location: Tokyo
+	Author:	Taigo Ito (QWEL.DESIGN)
+	Site: https://qwel.design
+	Location: Fukui
  */
 var Fader, MyEvent, Scrolling, Slidebar, Slidemenu, Slider, Util,
   bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },

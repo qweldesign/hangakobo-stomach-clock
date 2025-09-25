@@ -4,10 +4,9 @@
 	MyClock
 	Last update: 2017/10/15
 
-  Author:	Taigo Ito
-	Site: http://web.tgco.jp
-	Twitter: @taigoito
-	Location: Tokyo
+Author:	Taigo Ito (QWEL.DESIGN)
+	Site: https://qwel.design
+	Location: Fukui
  */
 var MyClock,
   bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
